@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 #for file in   *.sh
 for file in `find $1 -type f -a -name "*.sh"`
