@@ -1,4 +1,4 @@
 
 ls
 
-added conflicts
+added conflict to new branch
